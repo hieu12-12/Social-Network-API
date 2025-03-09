@@ -3,7 +3,7 @@ import userController from '../../controllers/userController.js';
 
 const router : Router = express.Router();
 
-// - GET /api/users         # Get all users
+// - GET /api/users         # Get all user
 router.get('/', async (req: Request, res: Response) =>
     await userController.getUsers(req, res)
 );
