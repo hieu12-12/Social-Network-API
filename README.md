@@ -64,6 +64,8 @@ MongoDB, and Mongoose ODM.
 
 ## API Routes
 
+Insomnia: API testing tool used for testing the routes.
+
 ### Users
 
 - `GET /api/users` - Get all users
@@ -127,3 +129,7 @@ MongoDB, and Mongoose ODM.
 
 ![Reaction Add](./assets/POSTreaction.png)
 ![Reaction Delete](./assets/DELreaction.png)
+
+License
+This project is licensed under the MIT License.
+
