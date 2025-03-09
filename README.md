@@ -94,7 +94,7 @@ Insomnia: API testing tool used for testing the routes.
 
 ## Demo
 
-> [Video Walkthrough]()
+> [Video Walkthrough](https://www.youtube.com/watch?v=fo4tmjTNKzs)
 
 
 ## Technologies Used
